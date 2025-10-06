@@ -13,7 +13,7 @@ export default function Highlights() {
     {
       icon: <DiamondIcon />,
       title: "Exclusive Properties",
-      text: "Access to premium homes listing details you won't find anywhere else.",
+      text: "Access to premium home listing details you won't find anywhere else.",
     },
     {
       icon: <PlaceIcon />,
