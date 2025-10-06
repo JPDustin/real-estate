@@ -13,12 +13,12 @@ export default function Highlights() {
     {
       icon: <DiamondIcon />,
       title: "Exclusive Properties",
-      text: "Access to premium homes not found elsewhere.",
+      text: "Access to premium homes listing details you won't find anywhere else.",
     },
     {
       icon: <PlaceIcon />,
       title: "Premier Locations",
-      text: "From Miami to Dubai and beyond.",
+      text: "From lake homes to mountain views and beyond.",
     },
   ];
   return (

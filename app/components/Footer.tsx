@@ -18,7 +18,7 @@ export default function Footer() {
         </Stack>
         <Divider sx={{ my: 2 }} />
         <Typography variant="caption" color="text.secondary">
-          This is a demo UI. Replace with your brand + legal links.
+          This is a demo UI. Replace with brand + legal links.
         </Typography>
       </Container>
     </Box>
